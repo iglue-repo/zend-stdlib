@@ -1,5 +1,8 @@
 {
-    "name": "zendframework/zend-stdlib",
+    "name": "zendframework@iglue/zend-stdlib",
+    "replace": {
+        "zendframework/zend-stdlib": "3.1.0"
+    },
     "description": " ",
     "license": "BSD-3-Clause",
     "keywords": [
